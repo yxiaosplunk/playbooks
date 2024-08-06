@@ -54,7 +54,7 @@ def add_comment_2(action=None, success=None, container=None, results=None, handl
     ## Custom Code End
     ################################################################################
 
-    phantom.comment(container=container, comment="this is a test")
+    phantom.comment(container=container, comment="this is a test 1")
 
     return
 
